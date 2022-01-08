@@ -11,6 +11,7 @@ The following domain names will be for sale after April 2022.
 - wyoming.cc
 
 
-If you would like more info about these domains please contact me. <br/><img src="img.png" style="width:20%;"/>
+If you would like more info about these domains please contact me. 
+<div><img src="img.png" style="width:18%;"/></div>
 
 
