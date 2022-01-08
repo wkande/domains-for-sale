@@ -10,4 +10,5 @@ The following domain names will be for sale after April 2022.
 - wyosoft.com
 - wyoming.cc
 
-![cont](./img.png)
+If you would like more info about these domains, please create a GitHub issue for more information. Please include the follwoing text in the body of the issue you create, `@wkande`. Click here to create a new issue.
+
