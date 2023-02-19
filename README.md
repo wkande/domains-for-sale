@@ -1,4 +1,4 @@
-# domain-names-for-sale
+# Domain names for sale
 
 The following domain names are for sale now.
 
