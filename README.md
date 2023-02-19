@@ -1,6 +1,6 @@
 # Domain names for sale
 
-The following domain names are for sale now.
+The following domain names are available for sale.
 
 - pupmoney.com
 - wyomingsoftware.com
